@@ -1,0 +1,7 @@
+text {
+  color: red;
+  display: block;
+  border: 100rpx solid red;
+  width: 375rpx;
+  box-sizing: border-box;
+}

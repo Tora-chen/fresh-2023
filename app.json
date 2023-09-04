@@ -1,0 +1,48 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/type/type",
+    "pages/home/home",
+    "pages/cart/cart",
+    "pages/my/my",
+    "pages/logs/logs",
+    "pages/collect/collect"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "生鲜",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "#555555",
+    "selectedColor": "#c03d37",
+    "list": [{
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "./img/home.png",
+        "selectedIconPath": "./img/homeing.png"
+      },
+      {
+        "pagePath": "pages/type/type",
+        "text": "分类",
+        "iconPath": "./img/type.png",
+        "selectedIconPath": "./img/typeing.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "购物车",
+        "iconPath": "./img/cart.png",
+        "selectedIconPath": "./img/carting.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "个人中心",
+        "iconPath": "./img/my.png",
+        "selectedIconPath": "./img/mying.png"
+      }
+    ]
+  }
+}

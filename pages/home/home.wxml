@@ -1,0 +1,21 @@
+<!--pages/home/home.wxml-->
+<!-- 文本 -->
+<text>首页</text>
+
+<!-- 按钮 -->
+<view>
+  <button size="mini">按钮</button>
+  <button type="primary">按钮2</button>
+  <button type="warn">按钮3</button>
+</view>
+
+<!-- 图标 -->
+<view>
+  <icon type="sucsess"/>
+  <icon type="download" size="50"/>
+</view>
+
+<!-- 进度条 -->
+<view>
+  <progress percent="30"></progress>
+</view>

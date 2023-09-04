@@ -1,0 +1,44 @@
+page {
+  background-color: #f4f4f4;
+}
+
+.list {
+  background-color: #fff;
+  margin-top: 10rpx;
+}
+
+.list .item {
+  border-bottom: 1px solid #e8e8e8;
+  height: 220rpx;
+  display: flex;
+}
+
+.list .item image {
+  width: 220rpx;
+  height: 220rpx;
+}
+
+.list .box {
+  /* 剩余空间分配 */
+  flex-grow: 1;
+  /* 设置为弹性盒子 */
+  display: flex;
+  /* 设置排列方向 */
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.list .box .cart {
+  width: 40rpx;
+  height: 40rpx;
+}
+
+.list .price {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 30rpx;
+}
+
+.list .price text {
+  color: #c03d37;
+}

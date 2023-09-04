@@ -1,0 +1,46 @@
+.header {
+  height: 200rpx;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 30rpx;
+  padding-left: 30rpx;
+  margin-top: 10rpx;
+}
+.header image {
+  width: 32rpx;
+  height: 48rpx;
+}
+
+.header .avatar {
+  width: 128rpx;
+  height: 128rpx;
+}
+.header .avatar-box {
+  display: flex;
+  align-items: center;
+}
+.header .avatar-box text {
+  margin-left: 10rpx;
+}
+
+.list {
+  padding: 30rpx;
+  background-color: #fff;
+}
+.list .item {
+  border-bottom: 2rpx solid #e8e8e8;
+  height: 88rpx;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list image {
+  width: 32rpx;
+  height: 48rpx;
+}
+
+page {
+  background-color: #f4f4f4;
+}

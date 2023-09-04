@@ -1,0 +1,38 @@
+<view class="list">
+  <view class="item">
+    <image src="https://mall.s.maizuo.com/f6f787571eb0f43ca5db9bb4e3a3bb80.png" mode="" />
+    <view class="box">
+      <view>
+        新鲜水果
+      </view>
+      <view class="price">
+        <text>¥9.00</text>
+        <image class="cart" src="../../img/carting.png" mode="" />
+      </view>
+    </view>
+  </view>
+  <view class="item">
+    <image src="https://mall.s.maizuo.com/f6f787571eb0f43ca5db9bb4e3a3bb80.png" mode="" />
+    <view class="box">
+      <view>
+        新鲜水果
+      </view>
+      <view class="price">
+        <text>¥9.00</text>
+        <image class="cart" src="../../img/carting.png" mode="" />
+      </view>
+    </view>
+  </view>
+  <view class="item">
+    <image src="https://mall.s.maizuo.com/f6f787571eb0f43ca5db9bb4e3a3bb80.png" mode="" />
+    <view class="box">
+      <view>
+        新鲜水果
+      </view>
+      <view class="price">
+        <text>¥9.00</text>
+        <image class="cart" src="../../img/carting.png" mode="" />
+      </view>
+    </view>
+  </view>
+</view>
